@@ -13,7 +13,7 @@ ViniciusG-Ribeiro">
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contatos!
  
 <div>  
   <a href = "mailto:viniciusrib2014@hotmail.com"><img src="https://img.shields.io/badge/-E--mail-%2338bdae?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
